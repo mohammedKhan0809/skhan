@@ -1,0 +1,40 @@
+h1
+{
+  background-color:blue;
+}
+
+img
+{
+  padding: 20px;
+  margin: 20px;
+  height: 40%;
+  width: 30%;
+  border: 2px solid blue;
+  box-shadow: 4px 4px blue;
+
+}
+ul
+{
+  font-size: 20px;
+}
+
+.content
+{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 25%;
+    background-color:#667AFF;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    font-size: 10px;
+    border: 3px dotted #blue;
+}
+.Body
+{
+  margin-left:25%;
+  padding:1px 16px;
+  height:1000px;
+}
